@@ -1,0 +1,17 @@
+POST https://api.openai.com/v1/completions
+Content-Type: application/json
+Authorization: Bearer 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
+
+//{
+//"model": "text-davinci-001",
+//"prompt": "Say this is a test",
+//"temperature":0,
+//"max tokens":7
+//}
+
+{
+  "model": "text-davinci-001",
+  "prompt": "Say this is a test",
+  "max_tokens": 7,
+  "temperature": 0
+}
