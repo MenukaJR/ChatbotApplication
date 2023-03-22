@@ -1,0 +1,6 @@
+a. Where is the Tim's shoes located?
+b. What are the available payment options?
+c. How can I get my order delivered?
+d. Are there any offers available currently?
+e. I want some help or tips about shoes (Virtual Assistant)
+        
